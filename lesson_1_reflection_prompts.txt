@@ -1,0 +1,39 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Fill in your answer here
+    using diff or something like this
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Fill in your answer here
+    using git
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    manually maybe annoy sometime, expecially when I forget it, but antomatically saved 
+    still have their own problems such as when I don't want to save, I don't understand it
+    when I look back.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    of course the git is much more better
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log to find the id, and git diff to compare the difference
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    因为可以随意的更改到以前的版本，所以做错了也没有关系
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    my html and css
+
+
